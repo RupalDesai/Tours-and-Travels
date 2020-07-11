@@ -8,6 +8,7 @@ Number of days to visit
 Number of people
 
 So all the values are taken as input and displayed the estimate of the trip
+Also, there are packages available to purchase for tour
 
 Backend
 localhost:8080/Tours/Admin
